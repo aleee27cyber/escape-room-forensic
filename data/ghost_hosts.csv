@@ -1,0 +1,6 @@
+Host_ID,IP,Hostname,Nivell_Amenaça,Estat
+1,192.168.1.10,ghost-web01,Alt,Actiu
+2,192.168.1.23,ghost-db02,Crític,Actiu
+3,192.168.1.45,ghost-mail03,Mitjà,Aïllat
+4,10.0.0.7,ghost-dev04,Baix,Actiu
+5,10.0.0.15,ghost-file05,Crític,Actiu
